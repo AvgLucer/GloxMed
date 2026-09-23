@@ -1,0 +1,6 @@
+PySide6
+python-dotenv
+openrouter
+PyMuPDF
+python-docx
+reportlab
